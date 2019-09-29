@@ -1,5 +1,4 @@
-# hackzurich
+# HackZuirch2019
 
-this repo contains the scripts by "team AIA" for hackzurich workshop #09 hackthon on 
-"determine the social consciousness of companies".
-
+This repo contains the scripts by "In Good Company" team for HackZurich as part of Vontobel challege - workshop #09:
+"NOWCASTING SOCIAL CONSCIOUSNESS OF COMPANIES"
